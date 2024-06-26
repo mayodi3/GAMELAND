@@ -19,7 +19,7 @@ const GameGrid = ({ gameQuery }: { gameQuery: GameQuery }) => {
           lg: 3,
           xl: 4,
         }}
-        spacing={5}
+        spacing={7}
         padding={3}
       >
         {isLoading &&
